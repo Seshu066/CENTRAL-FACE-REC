@@ -44,9 +44,9 @@ We chose a proactive approach to testing so that the testing of individual modul
 
 Contributors names and contact info 
 
-Shivam Singh (https://www.linkedin.com/in/singhshivam-007/)
-Seshu kiran kolla(https://www.linkedin.com/in/ksk566/)
-Siddarth chakraborty
+ex. Shivam Singh (https://www.linkedin.com/in/singhshivam-007/)
+ex. Seshu kiran kolla(https://www.linkedin.com/in/ksk566/)
+ex. Siddarth chakraborty
 
 
 ## Version History
